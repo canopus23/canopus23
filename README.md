@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canopus23&show_icons=true&locale=en" alt="canopus23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canopus23&" alt="canopus23" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/saikat_canopus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saikat_canopus" /></a></p><br><br>
