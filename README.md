@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Flutter & JavaScript Projects<br>🌱 I’m currently learning JavaScript<br>📫 How to reach me saikatchakravortyofficial@gmail.com
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=canopus23.canopus23)](https://github.com/canopus23)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/saaiiikat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/saaiiikat) 
