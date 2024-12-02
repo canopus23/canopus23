@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>🌱 I’m currently learning JavaScript<br>📫 How to reach me saikatchakravortyofficial@gmail.com
+🔭 I’m currently working on Flutter<br>🌱 I’m currently learning JavaScript<br>📫 How to reach me saikatchakravortyofficial@gmail.com<br>
+🏗️ Recent Project https://www.upwork.com/freelancers/~0138613b5d5b64dbd0?p=1863619575036985344
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canopus23&label=Profile%20views&color=0e75b6&style=flat" alt="canopus23" /> </p>
 
